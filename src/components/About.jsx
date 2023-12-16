@@ -16,9 +16,9 @@ const About = () => {
             <div className='sm:text-right text-4xl font-bold'>
             </div>
             <div>
-              <p>With a solid foundation in computer science and a hands-on approach to data engineering, I bring a wealth of experience in crafting scalable and efficient solutions for diverse data challenges. Whether it's architecting data warehouses, implementing ETL processes, or harnessing the power of cloud platforms, I am driven by a relentless pursuit of delivering high-quality, actionable insights.
-
-My proficiency extends across a spectrum of tools and technologies, including but not limited to Python, SQL, Apache Spark, and cloud services such as AWS and Azure. Throughout my career, I've had the privilege of contributing to impactful projects, where my role involved not only the technical intricacies of data engineering but also effective collaboration with cross-functional teams.</p>  
+              <p>With a solid foundation in data manipulation and analysis, I specialize in harnessing the power of Microsoft SQL for efficient database querying, data extraction, and transformation. Excel serves as my canvas for intricate data modeling, analysis, and visualization, enabling me to uncover patterns and trends that drive informed decision-making.
+                Python, being a versatile programming language, is a key tool in my arsenal, allowing me to extend my analytical capabilities through scripting, statistical analysis, and data manipulation. Whether it's cleaning messy datasets or building predictive models, I leverage Python to navigate the complexities of data.
+                Tableau is another integral part of my toolkit, empowering me to create visually compelling and interactive dashboards. This proficiency in data visualization ensures that the insights derived from data analysis are not only accurate but also easily understandable, facilitating effective communication with stakeholders.</p>  
             </div>
           </div>
       </div>
